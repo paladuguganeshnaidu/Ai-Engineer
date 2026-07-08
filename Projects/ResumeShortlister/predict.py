@@ -2,12 +2,9 @@ from pathlib import Path
 import joblib
 import pandas as pd
 
-print("__file__ =", __file__)
 BASE_DIR = Path(__file__).resolve().parent
-print("BASE_DIR =", BASE_DIR)
 MODELS_DIR = BASE_DIR / "Models"
 feature_columns = joblib.load(MODELS_DIR / "feature_columns.pkl")
-print("MODELS_DIR =", MODELS_DIR)
 model = joblib.load(MODELS_DIR / "resume_model.pkl")
 degree_encoder = joblib.load(MODELS_DIR / "degree_encoder.pkl")
 target_encoder = joblib.load(MODELS_DIR / "target_encoder.pkl")
