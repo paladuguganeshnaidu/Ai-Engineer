@@ -1,6 +1,6 @@
 Name,Degree,Branch,CollegeTier,Experience,Python,Java,C++,SQL,TensorFlow,PyTorch,Docker,Git,Linux,DSA,Communication,ProblemSolving,Internships,Certifications,Hackathons,Projects,CGPA,Aptitude,InterviewScore,LeetCodeSolved,ExpectedSalaryLPA,NoticePeriodDays,Selected
 Tejas Gowda X100001,BE,EEE,3,7,0,1,0,1,0,0,0,0,0,35,60,92,3,7,7,8,5.69,49,36,468,27.9,60,Yes
-Rakesh Das X100002,MCA,CSE,3,7,0,1,0,1,0,0,0,1,1,73,52,75,5,12,2,8,8.33,70,22,463,10.8,30,Yes
+Rakesh Das X100002,MCA,CSE,3,7,0,1,0,1,0,0,0,1,1,73,52,75,5,12,2,8,8.33,70,,463,10.8,30,Yes
 Aarav Joshi X100003,BTech,CSE,1,8,1,0,0,1,1,1,1,1,0,47,57,96,4,5,2,6,8.0,52,54,509,16.2,15,Yes
 Deepak Naidu X100004,MTech,CSE,3,3,1,1,1,1,1,1,1,0,1,71,44,31,0,0,8,4,7.79,51,72,173,3.5,60,Yes
 Sai Saxena X100005,BE,CSE,3,8,1,0,0,1,0,1,1,1,1,29,71,79,2,3,2,11,7.52,33,81,568,23.7,45,Yes

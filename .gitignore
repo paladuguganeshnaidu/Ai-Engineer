@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# ML
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# Dataset
+*.csv
+Training Data/
+Models/
